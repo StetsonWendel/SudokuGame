@@ -4,11 +4,9 @@ Attempt to code Sudoku in C++. Chance to learn and get better at C++.
 
 A rough working version of Sudoku as played in planes and newspapers. 
 
-This was a chance to lean C++ and become passingly familier with the language.
+This was a chance to learn C++ and become passingly familiar with the language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=bemEEKpLRPE)
 
 # Development Environment
 
